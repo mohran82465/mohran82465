@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer specializing in Java and the ME(R|A)N stack</h3>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohamed-mohran-6652b6188)">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/mohamed-mohran-6652b6188">LinkedIn</a> • 
   <a href="mohamed.ahmed.mohran@gmail.com">Email Me</a>
 </p>
 
@@ -34,6 +34,6 @@
 
 <h3 align="left">📫 Let's Connect</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohamed-mohran-6652b6188)" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-mohran-6652b6188" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mohamed.ahmed.mohran@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email"/></a>
 </p>
